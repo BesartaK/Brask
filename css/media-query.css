@@ -1,0 +1,49 @@
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+/* Styles */
+}
+
+@media (max-width: 768px){
+	.folder{
+	width: 17% !important;
+	}
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px){
+/* Styles */
+.folder{
+	width: 17% !important;
+}
+}
+
+@media (max-width: 640px){
+.folder{
+	width: 100% !important;
+}
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+	.folder{
+	width: 17% !important;
+	}
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
+
+
+
+
+
+
+
+
+
+
